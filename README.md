@@ -1,3 +1,3 @@
 # Example
-Just learning how to do this garbage
+Just learning how to git. 
 Did I do it right?
